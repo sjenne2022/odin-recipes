@@ -8,3 +8,6 @@ To showcase only HTML without utilizing CSS the images element had to be in with
 Another way of differentiating from the instructions for a better UI/UX was to not use an ordered list for the steps but rather a paragraph.
 
 Overall, this project helped me get more hands on with Git, Terminal, VSCode, GitHub, and the Odin Community when struggling.
+
+Link below:
+https://sjenne2022.github.io/odin-recipes/
